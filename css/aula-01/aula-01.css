@@ -1,0 +1,29 @@
+/* Cometário em CSS */
+/* Seletores em CSS */
+
+/* ======== Seletor Universal ========
+* {
+    color: red;
+}
+*/
+/* ======== Seletor Tag HTML ========*/
+h1{
+    color: rgb(172, 161, 38);
+}
+p{
+    /*código da cor no formato rgb*/
+    color: rgb(100, 90, 22);
+}
+body{
+    background: linear-gradient(to left, white, lightskyblue, blue);
+}
+
+/* ======== Seletor Class ========*/
+
+.bolha{
+    color: white;
+}
+/* ======== Seletor ID ========*/
+#henry{
+    color: red;
+}

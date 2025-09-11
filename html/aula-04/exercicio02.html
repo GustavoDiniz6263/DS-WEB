@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Exercício 02</title>
+    </head>
+    <body>
+        <form>
+            <lable>Gênero:</lable>
+            <input type="radio" id="masculino" name="genero" value="masculino" required>
+            <lable for="masculino">Masculino</lable>
+            <input type="radio" id="feminino" name="genero" value="feminino">
+            <label for="feminino">Feminino</label>
+            <input type="radio" id="outro" name="genero" value="outro">
+            <label for="outro">Outro</label>
+            <br>
+            <label>Interesses:</label>
+            <input type="checkbox" id="tecnologia" name="interesses" value="tecnologia" checked>
+            <label for="tecnologia">Tecnologia</label>
+            <input type="checkbox" id="esportes" name="interesses" value="esportes">
+            <label for="esportes">Esportes</label>
+            <input type="checkbox" id="arte" name="interesses" value="arte">
+            <label for="arte">Arte</label>
+            <input type="checkbox" id="musica" name="interesses" value="musica">
+            <label for="musica">Música</label>
+            <br>
+            <label for="carros">Escolha um carro:</label>
+            <select id="carros" name="carros" multiple required>
+            <optgroup label="Sedans">
+            <option value="corolla">Toyota Corolla</option>
+            <option value="civic">Honda Civic</option>
+            </optgroup>
+            <optgroup label="SUVs">
+            <option value="crv">Honda CR-V</option>
+            <option value="rav4">Toyota RAV4</option>
+            </optgroup>
+            </select>
+            <br>
+            <input type="submit" value="Enviar">
+        </form>
+    </body>
+</html>

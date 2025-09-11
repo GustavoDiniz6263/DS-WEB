@@ -1,0 +1,14 @@
+body{
+    margin-right: 0;
+    margin-left: 0;
+    background: linear-gradient(to bottom, rgb(154,172,191) 90%,rgb(109,152,186));
+}
+div{
+    width: 100%;
+    font-size: 30px;
+    background: linear-gradient(to bottom,rgb(154,172,191) 45%,rgb(211,185,159));
+}
+.sociorei{
+    font-size: 50px;
+    color: rgb(211,185,159);
+}

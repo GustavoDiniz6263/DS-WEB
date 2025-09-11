@@ -1,0 +1,112 @@
+body{
+    margin-left: 0;
+    margin-right: 0;
+}
+.titulo{
+    text-align: center;
+    color: white;
+}
+.divtitulo{
+    background-color: darkred;
+    height: 70px;
+    width: 100%;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+.titulonoticias{
+    font-size: 65px;
+    text-align: left;
+    margin-left: 13%;
+    margin-bottom: 0;
+    color: darkred;
+}
+.tabelan1{
+    width: 75%;
+    align-items: center;
+}
+.titulon1{
+    font-size: 50px;
+    text-align:left;
+}
+.fotoney{
+    border-radius: 3%;
+    border: 5px solid darkred;
+}
+.resumon1{
+    font-size: 25px;
+    width: 500px;
+    text-align: justify;
+}
+.leiamaisn1{
+    text-align: center;
+}
+.linkn1{
+    color: darkred;
+}
+hr{
+    width: 65%;        
+    margin: 20px auto;
+    align-items: center;
+}
+.tabelan2{
+    width: 75%;
+    align-items: center;
+}
+.titulon2{
+    font-size: 45px;
+    text-align:left;
+}
+.fotohaland{
+    border-radius: 3%;
+    border: 5px solid darkred;
+}
+.resumon2{
+    font-size: 25px;
+    width: 500px;
+    text-align: justify;
+}
+.leiamaisn2{
+    text-align: center;
+}
+.linkn2{
+    color: darkred;
+}
+
+.maisnoticias{
+    text-align: center;
+    color: darkred;
+    font-size: 40px;
+}
+
+.aaa{
+    
+    width: 80%;
+    align-items: center;
+    margin: 0 auto;
+    border: 3px solid black ;
+    height: 250px;
+
+}
+.ccc{
+    background-color: darkred;
+    color: white;
+    width: 20%;
+}
+.bbb{
+    text-align: center;
+}
+.linktabelan1{
+    color: darkred;
+}
+.linktabelan2{
+    color: darkred;
+}
+.linha{
+    width: 47.5%;                
+    height: 4px;              
+    background: linear-gradient(to right, white, darkred);
+    margin-left: 0;          
+    margin-top: 0;        
+}
+     
