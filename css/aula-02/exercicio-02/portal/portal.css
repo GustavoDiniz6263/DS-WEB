@@ -5,6 +5,9 @@ body{
 .titulo{
     text-align: center;
     color: white;
+   
+    font-size: 55px;
+
 }
 .divtitulo{
     background-color: darkred;
