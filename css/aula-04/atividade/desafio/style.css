@@ -1,0 +1,98 @@
+.divmaior{
+    margin: 0 auto;
+    align-content: center;
+    text-align: center;
+    height: 300px;
+    width: 70%;
+}
+.divmenor1{
+    width: 1000px;
+}
+.divmenor2{
+    width: 1000px;
+}.divmenor3{
+    width: 1000px;
+}
+.div1{
+    display: inline-block;
+    margin: 5px;
+    border: 5px solid black;
+    width: 80px;
+    height: 50px;
+    background-color: aqua;
+}
+.div2{
+    display: inline-block;
+    margin: 5px;
+    border: 5px dotted black;
+    width: 80px;
+    height: 50px;
+    background-color: aqua;
+}
+.div3{
+    display: inline-block;
+    margin: 5px;
+    border: 5px solid black;
+    width: 80px;
+    height: 50px;
+    background-color: aqua;
+}
+.div4{
+    display: inline-block;
+    margin: 5px;
+    border: 5px dotted black;
+    width: 80px;
+    height: 50px;
+    background-color: aqua;
+}
+.div5{
+    display: inline-block;
+    margin: 5px;
+    border: 5px solid black;
+    width: 80px;
+    height: 50px;
+    background-color: aqua;
+}
+.div6{
+    display: inline-block;
+    margin: 5px;
+    border: 5px dotted black;
+    width: 80px;
+    height: 50px;
+    background-color: aqua;
+}
+.div7{
+    display: inline-block;
+    margin: 5px;
+    border: 5px double black;
+    width: 80px;
+    height: 50px;
+    background-color: aqua;
+}
+.div8{
+    display: inline-block;
+    margin: 5px;
+    border: 5px dotted black;   
+    width: 80px;
+    height: 50px;
+    background-color: aqua;
+}
+.div9{
+    display: inline-block;
+    margin: 5px;
+    border: 5px solid black;
+    width: 80px;
+    height: 50px;
+    background-color: aqua;
+}
+.div1:hover,
+.div2:hover,
+.div3:hover,
+.div4:hover,
+.div5:hover,
+.div6:hover,
+.div7:hover,
+.div8:hover,
+.div9:hover {
+    color: white;
+}

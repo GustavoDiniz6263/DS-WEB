@@ -1,0 +1,13 @@
+.divmaior{
+    height: 300px;
+    width: 400px;
+    background-color: darkgray;
+    text-align: center;
+    padding: 100px;
+}
+.divmenor{
+    height: 100px;
+    width: 200px;
+    margin: auto;
+    background-color: cyan;
+}
