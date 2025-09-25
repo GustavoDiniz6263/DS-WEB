@@ -1,0 +1,66 @@
+.g{
+    background-color: aqua;
+    height: 20px;
+    width: 20px;
+    margin-left: 50px;
+    top: 0;
+    position: sticky;
+    text-align: center;
+}
+.u{
+    background-color: blue;
+    height: 20px;
+    width: 20px;
+    margin-left: 100px;
+    top: 0;
+    position: sticky;
+    text-align: center;
+}
+.s{
+    background-color: blueviolet;
+    height: 20px;
+    width: 20px;
+    margin-left: 150px;
+    top: 0;
+    position: sticky;
+    text-align: center;
+}
+.t{
+    background-color: chartreuse;
+    height: 20px;
+    width: 20px;
+    margin-left: 200px;
+    top: 0;
+    position: sticky;
+    text-align: center;
+}
+.a{
+    background-color: darkgoldenrod;
+    height: 20px;
+    width: 20px;
+    margin-left: 250px;
+    top: 0;
+    position: sticky;
+    text-align: center;
+}
+.v{
+    background-color: deeppink;
+    height: 20px;
+    width: 20px;
+    margin-left: 300px;
+    top: 0;
+    position: sticky;
+    text-align: center;
+}
+.o{
+    background-color: lightseagreen;
+    height: 20px;
+    width: 20px;
+    margin-left: 350px;
+    top: 0;
+    position: sticky;
+    text-align: center;
+}
+.nada{
+    height: 2000px;
+}

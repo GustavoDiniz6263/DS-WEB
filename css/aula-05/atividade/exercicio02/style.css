@@ -1,0 +1,14 @@
+.divmaior{
+    height: 300px;
+    width: 400px;
+    background-color: lightblue;
+    position: relative;
+}
+.divmenor{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}

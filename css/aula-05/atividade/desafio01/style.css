@@ -1,0 +1,26 @@
+.menufixo{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.divmaior{
+    margin-top: 70px;
+    position: relative;
+}
+.menulateral{
+    width: 250px;
+    height: 500px;
+    background-color: lightgray;
+    position: sticky;
+    top: 70px;
+    display: inline-block;
+    vertical-align: top;
+}
+.divtexto{
+    display: inline-block;
+    width: 1200px;
+}

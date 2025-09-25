@@ -1,0 +1,25 @@
+.divsticky{
+    height: 60px;
+    background-color: orange;
+    text-align: center;
+    position: sticky;
+    top: 0;
+}
+.div1{
+    height: 2000px;
+    background-color: aqua;
+    width: 50%;
+}
+.div2{
+    height: 2000px;
+    background-color: aquamarine;
+    width: 50%;
+}.div3{
+    height: 2000px;
+    background-color: lawngreen;
+    width: 50%;
+}.div4{
+    height: 2000px;
+    background-color: blueviolet;
+    width: 50%;
+}
