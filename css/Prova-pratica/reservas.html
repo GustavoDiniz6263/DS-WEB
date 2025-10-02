@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="reservas.css">
+    <title>Reservas</title>
+</head>
+<body>
+    <div class="menu" >MENU
+        <div class="a">
+        <div class="linkpi" ><a href="index.html" >Página Principal</a></div>
+        <div class="linkcar" ><a href="cardapio.html" >Cardápio</a></div>
+        <div class="linkpro" ><a href="promocoes.html" >Promoções</a></div>
+        <div class="linkres" ><a href="reservas.html" >Reservas</a></div>
+        </div>
+    </div>
+    <h1 class="titulores" >Faça sua reserva aqui!</h1>
+    <div class="divform" >
+        <form id="reserva">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" maxlentgh="50" placeholder="Digite seu nome" required>
+        <br>
+        <label for="telefone">Telefone:</label>
+        <input type="text" id="telefone" name="telefone" maxlentgh="50" placeholder="Digite seu telefone" required>
+        <br>
+        <label for="email">E-mail:</label>
+        <input type="email" id="email" name="email" maxlentgh="50" placeholder="Digite seu email" required>
+        <br>
+        <label for="qp">Quantidade de pessoas:</label>
+        <input type="number" id="qp" name="qp" placeholder="Selecione a quantidade de pessoas" required>
+        <br>
+        <label for="msg">Mensagem:</label><br>
+        <textarea id="msg" name="msg" rows="6" cols="50" maxlength="300" required>
+            Digite aqui o horário e o dia que pretende reservar
+        </textarea>
+        <br>
+        <button type="submit">Enviar</button>
+        </form>
+    </div>
+    <div>a</div>
+</body>
+</html>
