@@ -1,0 +1,5 @@
+var capini = Number(prompt('digite o capital inicial aplicado:'))
+var taxa = Number(prompt("digite a taxa aplicada(sem '%'):"))
+var tempo = Number(prompt('digite quanto tempo foi aplicada(meses):'))
+montante = capini * ((1 + (taxa / 100)) ** tempo)
+console.log(montante . toFixed(2))
