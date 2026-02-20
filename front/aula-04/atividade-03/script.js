@@ -1,4 +1,3 @@
-
 var contadorItem = 0;
 
 contadorItem ++
@@ -6,7 +5,12 @@ contadorItem ++
 function adicionar(){
     contadorItem ++
 let novoItem = document.createElement('li');
-novoItem.textContent = contadorItem + "-" + prompt("Digite o nome do item:");
+let nome = document.getElementById('nome').value;
+let email = document.getElementById('email').value;
+let rm = document.getElementById('RM').value;
+let telefone = document.getElementById('telefone').value;
+let turma = document.getElementById('turma').value;
+novoItem.innerHTML = contadorItem + "<br>" + nome + "<br>" + email + "<br>" + rm + "<br>" + telefone + "<br>" + turma + "<br>";
 novoItem.setAttribute('id',contadorItem);
 
 let botaoRemover = document.createElement('button');

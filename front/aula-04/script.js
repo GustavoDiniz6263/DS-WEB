@@ -6,7 +6,8 @@ contadorItem ++
 function adicionar(){
     contadorItem ++
 let novoItem = document.createElement('li');
-novoItem.textContent = contadorItem + "-" + prompt("Digite o nome do item:");
+let novaTarefa = document.getElementById('novaTarefa').value;
+novoItem.textContent = contadorItem + "-" + novaTarefa;
 novoItem.setAttribute('id',contadorItem);
 
 let botaoRemover = document.createElement('button');
