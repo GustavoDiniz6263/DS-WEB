@@ -1,0 +1,33 @@
+body {
+text-align: center;
+background: black;
+
+}
+.area{
+background-image: url("imagem.jpg");
+margin: 0 auto;
+width: 700px;
+height: 800px;
+border: 1px solid black;
+margin: 20px auto;
+padding: 10px;
+}
+form, fieldset{
+display: inline;
+}
+h4{
+margin: 0;
+}
+.mensagem, .posicao {
+font-weight: bold;
+}
+.espacamento{
+height: 500px;
+}
+.foto0, .foto1, .foto2 {
+width: 350px;
+height: 200px;
+}
+h1{
+    color: red;
+}
